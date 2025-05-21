@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
-## Date: 22.04.2025
-## Reg No:212224220055
+## Date: 21.05.2025
+## Reg No:212224220045
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -37,7 +37,7 @@ map.html
 </head>
 <body>
   <h1 align="center"><b>KARUR</b></h1>
-  <h3 align="center"><b>MADHESH I (212224220055)</b></h3>
+  <h3 align="center"><b>kavi bharathi I (212224220045)</b></h3>
   <center>
   <img src="map.png" alt="Map of my Area" usemap="#mymap" width="1911" height="1012">
 </center>
